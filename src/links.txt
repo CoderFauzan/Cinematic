@@ -1,0 +1,19 @@
+035310e7e39f7605b327f63f87873ed6
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=035310e7e39f7605b327f63f87873ed6
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=035310e7e39f7605b327f63f87873ed6
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=035310e7e39f7605b327f63f87873ed6
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=035310e7e39f7605b327f63f87873ed6
+
+Upcoming: 
+https://api.themoviedb.org/3/movie/upcoming?api_key=035310e7e39f7605b327f63f87873ed6
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=035310e7e39f7605b327f63f87873ed6&query={movie_name}
